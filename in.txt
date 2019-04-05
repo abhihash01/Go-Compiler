@@ -1,0 +1,30 @@
+package nihal
+import m "math"
+import "car"
+
+
+type g struct {
+	x, y int
+	F func()
+}
+
+var a,b [10]int
+func add1(i,j int,t,n float64)float32
+{
+var l1 int
+}
+
+func g1(r int,t1,u float64)float32
+{
+t++
+}
+
+if a>b{
+a:=b
+}
+else{
+b:=a
+}
+
+
+
